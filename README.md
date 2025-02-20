@@ -1,2 +1,2 @@
 This is my local repositoy.  
-Regarding CSS
+Regarding CSS repository 
